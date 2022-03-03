@@ -1,7 +1,5 @@
 /**
- * Name: Nikhil Kashyap(nikhilka)
- * Course: Data Structures and Algorithms 95-771
- * Assignment: Graph Coloring and Red Black Trees
+ * @author Nikhil Kashyap
  */
 
 
