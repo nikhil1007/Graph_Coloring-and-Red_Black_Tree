@@ -1,4 +1,4 @@
-# Application of Graph coloring problem
+# Application of Graph Coloring problem
 
 This project aims at understanding the graph coloring problem and its applications. On a high-level below are the tasks involved:
 <li> Read an input text file containing details about student and the courses they are currently enrolled.
